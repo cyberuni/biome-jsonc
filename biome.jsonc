@@ -1,0 +1,11 @@
+{
+	"$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
+	"json": {
+		// `biome` treat `json` as `jsonc` by default.
+		// That causes false positives and should be avoided.
+		"parser": {
+			"allowComments": false,
+			"allowTrailingCommas": false
+		}
+	}
+}

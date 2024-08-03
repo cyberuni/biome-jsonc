@@ -1,9 +1,6 @@
-# TypeScript Issue Template
+# biome-jsonc issue
 
 To repro:
 
-```sh
-pnpm install
-pnpm build
-pnpm test
-```
+- `pnpm install`
+- Install biome VS Code extension
