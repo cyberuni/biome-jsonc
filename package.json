@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@biomejs/biome": "^1.8.3"
+    "@biomejs/biome": "^2.0.0"
   },
   "packageManager": "pnpm@9.5.0"
 }
